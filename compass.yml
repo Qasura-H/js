@@ -1,0 +1,25 @@
+name: js
+id: ari:cloud:compass:4c980b7e-a4bb-46d5-8aa0-f211524278f0:component/bf311a47-a9a6-41f6-87ac-41a380fbefe3/ce5291f3-9ad5-42cb-82b3-e9d75160be86
+description: Monorepo for the JS language tools.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Qasura-H/js
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: Document Questions Samples
+    type: boolean
+    value: false
+  - name: avec andoka cloud
+    type: text
+    value: null
+  - name: collège andoka soudanais
+    type: multi_select
+    value: null
